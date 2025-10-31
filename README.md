@@ -27,12 +27,13 @@ pip install git+https://github.com/natspwns/ollies-ticket-counter.git
 
 Run from any terminal once installed:
 ```bash
-ollies-ticket-counter menu         # Interactive menu with ASCII Ollie 🐶
-ollies-ticket-counter add          # Log a new ticket (interactive)
-ollies-ticket-counter msg --count 3
-ollies-ticket-counter today        # View today’s stats
-ollies-ticket-counter week         # Weekly report
-ollies-ticket-counter export       # Export CSV (with optional cache clear)
+ollies-ticket-counter menu          # Interactive menu with ASCII Ollie 🐶
+ollies-ticket-counter add           # Log a new ticket (interactive)
+ollies-ticket-counter msg           # Count 1 message
+ollies-ticket-counter msg --count 3 # Count 3 messages
+ollies-ticket-counter today         # View today’s stats
+ollies-ticket-counter week          # Weekly report
+ollies-ticket-counter export        # Export CSV (with optional cache clear)
 ```
 
 ## 🧩 Example Output
