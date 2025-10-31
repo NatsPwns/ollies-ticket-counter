@@ -1,5 +1,10 @@
 # 🐾 Ollie’s Ticket Counter
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-natspwns%2Follies--ticket--counter-181717?logo=github)](https://github.com/natspwns/ollies-ticket-counter)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Install from GitHub](https://img.shields.io/badge/pip%20install-git%2Bhttps%3A%2F%2Fgithub.com%2Fnatspwns%2Follies--ticket--counter.git-brightgreen)](https://github.com/natspwns/ollies-ticket-counter)
+
 **Ollie’s Ticket Counter** is a lightweight, local CLI tool to track daily support activity, messages sent, tickets handled, and weekly progress!
 All saved privately on your machine.  
 Built with love, coffee ☕, and the occasional "click clack" from Ollie 🐶💻
