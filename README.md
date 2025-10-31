@@ -32,7 +32,7 @@ pip install git+https://github.com/natspwns/ollies-ticket-counter.git
 
 Run from any terminal once installed:
 ```bash
-ollies-ticket-counter menu          # Interactive menu with ASCII Ollie 🐶
+ollies-ticket-counter menu          # Interactive menu featuring Ollie 🐶
 ollies-ticket-counter add           # Log a new ticket (interactive)
 ollies-ticket-counter msg           # Count 1 message
 ollies-ticket-counter msg --count 3 # Count 3 messages
